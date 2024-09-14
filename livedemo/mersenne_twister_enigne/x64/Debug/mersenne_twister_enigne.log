@@ -1,0 +1,12 @@
+﻿  mersenne_twister_enigne.cpp
+C:\Users\Philipp\Documents\FH\Master\1.Semester\AdvancedProgramming\BoostVSStandartL\randomised_algorithms\livedemo\mersenne_twister_enigne\mersenne_twister_enigne.cpp(12,20): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Philipp\Documents\FH\Master\1.Semester\AdvancedProgramming\BoostVSStandartL\randomised_algorithms\livedemo\mersenne_twister_enigne\mersenne_twister_enigne.cpp(22,20): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  mersenne_twister_enigne.vcxproj -> C:\Users\Philipp\Documents\FH\Master\1.Semester\AdvancedProgramming\BoostVSStandartL\randomised_algorithms\livedemo\x64\Debug\mersenne_twister_enigne.exe

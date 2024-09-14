@@ -1,0 +1,12 @@
+﻿  subtract_with_carry_enigne.cpp
+C:\Users\Philipp\Documents\FH\Master\1.Semester\AdvancedProgramming\BoostVSStandartL\randomised_algorithms\livedemo\subtract_with_carry_enigne\subtract_with_carry_enigne.cpp(15,20): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Philipp\Documents\FH\Master\1.Semester\AdvancedProgramming\BoostVSStandartL\randomised_algorithms\livedemo\subtract_with_carry_enigne\subtract_with_carry_enigne.cpp(24,20): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  subtract_with_carry_enigne.vcxproj -> C:\Users\Philipp\Documents\FH\Master\1.Semester\AdvancedProgramming\BoostVSStandartL\randomised_algorithms\livedemo\x64\Debug\subtract_with_carry_enigne.exe

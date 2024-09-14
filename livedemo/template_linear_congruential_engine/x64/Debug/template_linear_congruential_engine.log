@@ -1,0 +1,12 @@
+﻿  template_linear_congruential_engine.cpp
+C:\Users\Philipp\Documents\FH\Master\1.Semester\AdvancedProgramming\BoostVSStandartL\randomised_algorithms\livedemo\template_linear_congruential_engine\template_linear_congruential_engine.cpp(14,20): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Philipp\Documents\FH\Master\1.Semester\AdvancedProgramming\BoostVSStandartL\randomised_algorithms\livedemo\template_linear_congruential_engine\template_linear_congruential_engine.cpp(23,20): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  template_linear_congruential_engine.vcxproj -> C:\Users\Philipp\Documents\FH\Master\1.Semester\AdvancedProgramming\BoostVSStandartL\randomised_algorithms\livedemo\x64\Debug\template_linear_congruential_engine.exe
